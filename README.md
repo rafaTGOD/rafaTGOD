@@ -6,9 +6,9 @@
 Atualmente estou cursando bacharelado em Ciência e Tecnologia pela Universidade Federal do ABC e sou um grande entusiasta da área de dados!
 
 
-👩‍💻 Trabalho atualmente na Vivo 💜
+👩‍💻 Atualmente sou Analista Jr na Vivo e trabalho com automação de processos 💜
 
-🚀 Tenho experiência com automação de processos e análise de dados
+🚀 Tenho experiência com RPA e análise de dados
 
 🧠 Estou aprendendo tópicos de Big Data e Machine Learning
 
